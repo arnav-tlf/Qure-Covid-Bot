@@ -1,5 +1,6 @@
 # Qure-Covid-Bot
-## Creator - Arnav Sharma
+### Creator - Arnav Sharma
+## ETL Pipeline - Grafana Dashboarding - Slack Integration
 
 Step 1 : Clean Data   (Refer to '.IYNB' notebook above)
 
