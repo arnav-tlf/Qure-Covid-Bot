@@ -1,4 +1,5 @@
 # Qure-Covid-Bot
+## Creator - Arnav Sharma
 
 Step 1 : Clean Data   (Refer to '.IYNB' notebook above)
 
